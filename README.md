@@ -5,7 +5,9 @@
 Web and mobile application developer
 Work on small and large corporate applications for companies
 
-Skills: Python / C++ / PHP / Dart / HTML / CSS / Bootstrap / JS / Ajax / REACT / Flutter ***** Databases : MYSQL / ORACLE
+Skills:
+Frontend: Python / C++ / PHP / Dart / HTML / CSS / Bootstrap / JS / Ajax / REACT / Flutter 
+Backend: MYSQL / ORACLE
 
 - 🔭 I’m currently working on freelance 
 - 🌱 I’m currently learning Dart 
