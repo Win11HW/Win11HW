@@ -7,7 +7,7 @@ Work on small and large corporate applications for companies
 
 Skills:<br>
 
-<b>Frontend:</b> Python / C++ / PHP / Dart / HTML / CSS / Bootstrap / JS / Ajax / REACT / Flutter 
+<b>Frontend:</b> Python / C++ / PHP / Dart / HTML / CSS / Bootstrap / JS / Ajax / REACT / Flutter <br>
 <b>Backend:</b> MYSQL / ORACLE
 
 - 🔭 I’m currently working on freelance 
